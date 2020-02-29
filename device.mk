@@ -32,6 +32,9 @@ PRODUCT_SYSTEM_SERVER_DEBUG_INFO := false
 # Speed profile services and wifi-service to reduce RAM and storage.
 PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
 
+# Dexpreopt
+WITH_DEXPREOPT_DEBUG_INFO := false
+
 # AB OTA Configuration
 AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS := \
