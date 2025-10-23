@@ -18,7 +18,7 @@
 -->
 <resources>
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string name="def_device_name_simple">Redmi Note 14 4G</string>
+    <string name="def_device_name_simple">Redmi Note 14</string>
 
     <!-- Disable UI touch sounds by default -->
     <bool name="def_sound_effects_enabled">false</bool>
